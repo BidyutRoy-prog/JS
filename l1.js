@@ -1,4 +1,4 @@
-// let learn about let,var and const
+// let's learn about let,var and const
 
 const id=2378 //once a const variable is declared it can't be change 
 let name="bidyut roy" //let is a local scop variable (new approach)
